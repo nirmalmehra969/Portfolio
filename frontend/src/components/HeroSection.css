@@ -183,6 +183,24 @@
         padding-bottom: 60px;
     }
 
+    .hero-actions {
+        flex-direction: column;
+        width: 100%;
+        max-width: 300px;
+        margin: 0 auto 30px auto;
+    }
+
+    .hero-actions .neon-btn {
+        width: 100%;
+        text-align: center;
+        justify-content: center;
+    }
+
+    .hero-social {
+        justify-content: center;
+        width: 100%;
+    }
+
     .scroll-indicator {
         display: none;
     }
